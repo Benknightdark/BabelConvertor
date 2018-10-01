@@ -12,5 +12,8 @@
   "dependencies": {
     "@babel/core": "^7.1.2",
     "recursive-readdir": "^2.2.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.1.0"
   }
 }
